@@ -1,0 +1,1 @@
+A system developed to manage the inventory of the local bookstore to keep records of all books and the store’s details. The system should allow the bookstore staff to manage book records and book’s information efficiently. Define the necessary structures and use advanced features like operator overloading.
